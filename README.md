@@ -1,5 +1,5 @@
 # RekordboxPlaylistExporter
-Tool to extract playlists from Rekordbox collection .xml to .m3u playlist files. This extracts only songlocations. Rating, cue points etc. will be ignored.
+Tool to extract playlists and folders from Rekordbox collection .xml to .m3u playlist files. This extracts only songlocations. Rating, cue points etc. will be ignored.
 
 # HowTo Use
 1. Extract Rekordbox Library into .xml File via File -> extract collection to xml format
