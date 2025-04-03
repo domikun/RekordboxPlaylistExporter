@@ -3,7 +3,7 @@ Tool to extract playlists from Rekordbox collection .xml to .m3u playlist files.
 
 # HowTo Use
 1. Extract Rekordbox Library into .xml File via File -> extract collection to xml format
-2. Name file RekordboxCollection.xml
+2. Name file **RekordboxCollection.xml**
 3. Either use RekordboxPlaylistExporter.py or RekordboxPlaylistExporter.exe in same directory
 4. ROOT folder containins folders and playlists
 5. Locate folder in Traktor and use playlist :)
