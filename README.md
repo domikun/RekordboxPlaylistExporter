@@ -14,6 +14,8 @@ The script simply converts all existing playlists and creates a new ROOT folder.
 A log file will be written.
 
 # Versions 
-Tested with
-Rekordbox: 6.8.5
+Tested with \
+Python 3.11 \
+Windows 10 \
+Rekordbox: 6.8.5 \
 Traktor 2.11.3 17
